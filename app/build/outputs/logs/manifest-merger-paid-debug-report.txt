@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:3:2-45
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:6:2-64
+	android:name
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:6:19-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:7:2-77
+	android:name
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:7:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:8:2-76
+	android:name
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:8:19-74
+supports-screens
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:9:2-13:33
+	android:largeScreens
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:12:3-31
+	android:normalScreens
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:11:3-31
+	android:xlargeScreens
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:13:3-31
+application
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:15:2-32:16
+MERGED from [com.android.support:design:25.1.1] C:\Users\Puzzle\.android\build-cache\858bdb2792e623567a3af41aec6ccde0449b9024\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Puzzle\.android\build-cache\bf356cafd4ed70870fb1e1af3abcb67001a987e7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Puzzle\.android\build-cache\b239caa5540f3b7876802a763674e99bdcd507da\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Puzzle\.android\build-cache\ef7ac414f9be6d7fbc1a6050e907d6e204f76cb9\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Puzzle\.android\build-cache\3b97114368d4688dbcf1270c5e866dbde1188ad9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Puzzle\.android\build-cache\51a75e333e98a2076db990d1eda158dc1be943af\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Puzzle\.android\build-cache\23479610925d014bd947a52ac0282b99fc1a7fc2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Puzzle\.android\build-cache\943e37823f2a1d3a1fca35b843b5ddaeabc3efea\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Puzzle\.android\build-cache\5c22ad498a3debfc025711b68c73ab7892c88415\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Puzzle\.android\build-cache\bade1d748ae05176a39142785f1eb8c35605a47a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Puzzle\.android\build-cache\6924657a4a44967aede682dab4f924a94a8ee4c6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Puzzle\.android\build-cache\2466ebd92e2ece42479ab25ac9d387a07df5a735\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Puzzle\.android\build-cache\b3d1df9996b3e4a7b53b1fb7c6c940527eef7f8d\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:17:3-35
+	android:icon
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:16:3-39
+	android:theme
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:18:3-40
+activity#com.commonsware.android.tablayout.AboutActivity
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:19:3-20:28
+	android:label
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:20:4-25
+	android:name
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:19:13-41
+activity#com.commonsware.android.tablayout.AccountActivity
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:21:3-22:37
+	android:label
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:22:4-34
+	android:name
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:21:13-43
+activity#com.commonsware.android.tablayout.MainActivity
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:23:3-30:14
+	android:label
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:25:4-36
+	android:name
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:24:4-31
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:26:4-29:20
+action#android.intent.action.MAIN
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:27:5-56
+	android:name
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:27:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:28:5-64
+	android:name
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:28:15-62
+service#com.commonsware.android.tablayout.MyService
+ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:31:3-72
+	android:name
+		ADDED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml:31:12-70
+uses-sdk
+INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] C:\Users\Puzzle\.android\build-cache\858bdb2792e623567a3af41aec6ccde0449b9024\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Puzzle\.android\build-cache\bf356cafd4ed70870fb1e1af3abcb67001a987e7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Puzzle\.android\build-cache\b239caa5540f3b7876802a763674e99bdcd507da\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Puzzle\.android\build-cache\ef7ac414f9be6d7fbc1a6050e907d6e204f76cb9\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Puzzle\.android\build-cache\f66c5835cf28d5bb5e4f4b634cfdfac8f180a8bc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Puzzle\.android\build-cache\3b97114368d4688dbcf1270c5e866dbde1188ad9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Puzzle\.android\build-cache\51a75e333e98a2076db990d1eda158dc1be943af\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Puzzle\.android\build-cache\23479610925d014bd947a52ac0282b99fc1a7fc2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Puzzle\.android\build-cache\943e37823f2a1d3a1fca35b843b5ddaeabc3efea\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Puzzle\.android\build-cache\5c22ad498a3debfc025711b68c73ab7892c88415\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Puzzle\.android\build-cache\bade1d748ae05176a39142785f1eb8c35605a47a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Puzzle\.android\build-cache\6924657a4a44967aede682dab4f924a94a8ee4c6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Puzzle\.android\build-cache\2466ebd92e2ece42479ab25ac9d387a07df5a735\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Puzzle\.android\build-cache\b3d1df9996b3e4a7b53b1fb7c6c940527eef7f8d\output\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Puzzle\.android\build-cache\858bdb2792e623567a3af41aec6ccde0449b9024\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Anna4\MultiLoginLib\app\src\main\AndroidManifest.xml

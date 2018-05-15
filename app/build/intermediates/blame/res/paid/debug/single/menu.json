@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\Anna4\\MultiLoginLib\\app\\build\\intermediates\\res\\merged\\paid\\debug\\menu\\actions.xml",
+        "source": "D:\\android\\Anna4\\MultiLoginLib\\app\\src\\main\\res\\menu\\actions.xml"
+    },
+    {
+        "merged": "D:\\android\\Anna4\\MultiLoginLib\\app\\build\\intermediates\\res\\merged\\paid\\debug\\menu\\account_setting_menu.xml",
+        "source": "D:\\android\\Anna4\\MultiLoginLib\\app\\src\\main\\res\\menu\\account_setting_menu.xml"
+    }
+]

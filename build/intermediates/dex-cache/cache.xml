@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\b239caa5540f3b7876802a763674e99bdcd507da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2157be73bc952d96daf0ef48d3e54e683c7a3475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\Anna4\MultiLoginLib\mylibtestmod\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="932e93e4dff7af45a9261cb4f316ccb109857cfd">
+        <dex dex="D:\android\Anna4\MultiLoginLib\mylibtestmod\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_441ec26078eb643d4803c538948917f572dc8c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\858bdb2792e623567a3af41aec6ccde0449b9024\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7a38b6629a5e713dff9c7e257ce15b2263a8d63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_20f9ba47b46fdc5ab3d3d69b42415fddbbcaca28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\ef7ac414f9be6d7fbc1a6050e907d6e204f76cb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66a3e0a7017b9046e2b785def7ac9d4a1c92fc5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_fc08aa1671be0ce77a0751da715c3f46284bbdf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\6924657a4a44967aede682dab4f924a94a8ee4c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05161faa7d0430d085159785fa64f1c771bdf85e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e6d24e4c2fdb31403fc85e9dfdd50b0c5dc0ec5f">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7718728e964684b50b5980c90030c64e164a4365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\f66c5835cf28d5bb5e4f4b634cfdfac8f180a8bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81153f2df6d212ff96c38938bb077120da52d01e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\Anna4\MultiLoginLib\myandroidlibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49adcc5f7a9cba653a7c8541c7c7825764688e3c">
+        <dex dex="D:\android\Anna4\MultiLoginLib\mylibtestmod\build\intermediates\pre-dexed\debug\classes_ef4e4cb25141e43a8d91f2f9fdf7666e60477a9f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\23479610925d014bd947a52ac0282b99fc1a7fc2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11e9bcf099d1cd1554bc4f633146184513700f77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\51a75e333e98a2076db990d1eda158dc1be943af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe39a63f61375da118e48c2aa9b18770affa2013\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\5c22ad498a3debfc025711b68c73ab7892c88415\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea3fd07ad1c0dc8002bd687b5a49f52ba6f24759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\3b97114368d4688dbcf1270c5e866dbde1188ad9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4359c80cf75ef8cffa653465601f485778e4290a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\bf356cafd4ed70870fb1e1af3abcb67001a987e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34680be427a057338e0e22846d20e1764971c0f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\Anna4\MultiLoginLib\mylibtestmod\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\android\Anna4\MultiLoginLib\mylibtestmod\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_11bfd8a01153d82d9805365855799665ecd5150b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\943e37823f2a1d3a1fca35b843b5ddaeabc3efea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee2bf81964e326243a7352718c801d249a293d8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puzzle\.android\build-cache\bade1d748ae05176a39142785f1eb8c35605a47a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\android\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\cw-omnibus-f76caffaf2e09b8d0eee33fc25642e62e9d47ae6\DesignSupport\TabLayout\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2c3da07d5d13736b9305a118c19584aa35c5746\classes.dex" />
+    </item>
+
+</items>

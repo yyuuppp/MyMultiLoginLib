@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">台南公共圖書館多重帳號用</string>
+	<string name="hint">Editor #%d</string>
+	<string name="menu_fixed">Fixed Tabs</string>
+	<string name="add">Add</string>
+	<string name="reset">Reset</string>
+	<string name="about">About</string>
+</resources>

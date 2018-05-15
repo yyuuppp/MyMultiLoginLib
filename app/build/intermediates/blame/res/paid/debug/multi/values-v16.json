@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\android\\Anna4\\MultiLoginLib\\app\\build\\intermediates\\incremental\\mergePaidDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\Puzzle\\.android\\build-cache\\bf356cafd4ed70870fb1e1af3abcb67001a987e7\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]
